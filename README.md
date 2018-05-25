@@ -1,24 +1,6 @@
+# Big Data Analysis Potential value of the data of the citizen science project luftdaten.info around fine dust emissions and it's trend
 
-<div style="    text-align: center;
-    font-size: 20pt;
-    line-height: 34px;
-    font-weight: bold;">
-
-Big Data Analysis<br/> 
-Potential value of the data of the citizen science project luftdaten.info around fine dust emissions and it's trend
-
-</div>
-
-<br/>
-<br/>
-<br/>
-<br/>
-
-
-
-<div style="text-align: right">Research by Martin Andreas Wörz, 20 Mai 2018</div>
-
-
+<div style="text-align: right">Research by Martin, 20 Mai 2018</div>
 
 ## 1. Motivation
 
